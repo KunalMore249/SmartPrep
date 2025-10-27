@@ -46,6 +46,4 @@ npm install
 npm run dev
 ```
 
-## 📬 Contact
-For partnership inquiries: partnerships@smartprep.com  
-Investor relations: investors@smartprep.com
+
